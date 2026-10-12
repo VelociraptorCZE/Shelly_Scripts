@@ -3,7 +3,7 @@ const COORDINATES = {
   longitude: 14.663,
 };
 
-const LED_HUE = [100, 50, 0];
+const LED_HUE = [100, 25, 0];
 const LED_CHECK_INTERVAL = 120e3;
 const SUNSET_OFFSET = 1;
 const SUNRISE_OFFSET = 0;
